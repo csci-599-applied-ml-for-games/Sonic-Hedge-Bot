@@ -1,1 +1,1 @@
-# first-person-shooter
+# Sonic Hedge bot using GYM retro - NEAT. 
