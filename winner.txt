@@ -1,0 +1,227 @@
+
+ ****** Running generation 0 ****** 
+
+1 1
+2 1
+3 1
+4 1
+5 1
+6 1
+7 1298
+8 1
+9 1
+10 1
+11 1
+12 177
+13 1
+14 1
+15 107
+16 1
+17 30
+18 1
+19 293
+20 1127
+21 1
+22 421
+23 462
+24 1
+25 507
+26 179
+27 1
+28 1
+29 1
+30 1
+Population's average fitness: 154.03333 stdev: 318.98103
+Best fitness: 1298.00000 - size: (12, 6726) - species 1 - id 7
+Average adjusted fitness: 0.130
+Mean genetic distance 2.349, standard deviation 0.399
+Population of 30 members in 4 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    0    18   1298.0    0.107     0
+     2    0     4    507.0    0.153     0
+     3    0     7       --       --     0
+     4    0     1       --       --     0
+Total extinctions: 0
+Generation time: 364.896 sec
+Saving checkpoint to neat-checkpoint-0
+
+ ****** Running generation 1 ****** 
+
+7 1298
+19 293
+20 1127
+22 421
+23 462
+25 507
+31 180
+32 177
+33 39
+34 1280
+35 177
+36 415
+37 420
+38 293
+39 177
+40 177
+41 187
+42 1
+43 1
+44 486
+45 289
+46 1
+47 1425
+48 804
+49 109
+50 1
+51 441
+52 1
+53 1
+54 200
+Population's average fitness: 379.66667 stdev: 403.08472
+Best fitness: 1425.00000 - size: (12, 5045) - species 4 - id 47
+Average adjusted fitness: 0.414
+Mean genetic distance 2.301, standard deviation 0.655
+Population of 29 members in 5 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    1     3   1298.0    0.268     1
+     2    1     4    421.0    0.187     1
+     3    1     4    804.0    0.202     0
+     4    1    11   1425.0    1.000     0
+     5    0     7       --       --     0
+Total extinctions: 0
+Generation time: 515.221 sec (440.059 average)
+Saving checkpoint to neat-checkpoint-1
+
+ ****** Running generation 2 ****** 
+
+64 186
+65 253
+66 185
+67 187
+68 755
+69 511
+70 267
+7 1298
+72 1267
+73 928
+20 1127
+22 421
+31 180
+34 1280
+38 293
+71 802
+44 486
+47 1425
+48 804
+51 441
+55 381
+56 906
+57 1
+58 164
+59 699
+60 954
+61 177
+62 892
+63 556
+Population's average fitness: 614.68966 stdev: 404.57446
+Best fitness: 1425.00000 - size: (12, 5045) - species 4 - id 47
+Average adjusted fitness: 0.418
+Mean genetic distance 2.189, standard deviation 0.741
+Population of 29 members in 5 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    2     5    906.0    0.489     2
+     2    2     3    421.0    0.156     2
+     3    2     6   1298.0    0.557     0
+     4    2     9   1425.0    0.491     1
+     5    1     6   1280.0    0.396     0
+Total extinctions: 0
+Generation time: 612.865 sec (497.661 average)
+Saving checkpoint to neat-checkpoint-2
+
+ ****** Running generation 3 ****** 
+
+86 487
+7 1298
+72 1267
+74 1
+75 718
+76 177
+77 277
+78 797
+79 1175
+80 1
+81 277
+82 403
+83 782
+20 1127
+85 1254
+22 421
+87 479
+31 180
+34 1280
+38 293
+44 486
+47 1425
+48 804
+55 381
+56 906
+84 292
+59 699
+60 954
+62 892
+Population's average fitness: 673.55172 stdev: 416.29363
+Best fitness: 1425.00000 - size: (12, 5045) - species 4 - id 47
+Average adjusted fitness: 0.432
+Mean genetic distance 2.185, standard deviation 0.762
+Population of 31 members in 5 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    3     6    906.0    0.394     3
+     2    3     3    421.0    0.209     3
+     3    3     7   1298.0    0.490     1
+     4    3     8   1425.0    0.586     2
+     5    2     7   1280.0    0.482     1
+Total extinctions: 0
+Generation time: 607.937 sec (525.230 average)
+Saving checkpoint to neat-checkpoint-3
+
+ ****** Running generation 4 ****** 
+
+7 1298
+72 1267
+75 718
+98 602
+78 797
+79 1175
+85 1254
+22 421
+88 6
+89 552
+90 1173
+91 474
+92 183
+93 102149
+94 1009
+95 1169
+96 394
+97 630
+34 1280
+99 273
+100 1434
+101 553
+38 293
+103 1096
+47 1425
+48 804
+56 906
+31 180
+60 954
+102 886
+62 892
+Population's average fitness: 4072.48387 stdev: 17910.59496
+Best fitness: 102149.00000 - size: (12, 4242) - species 5 - id 93
+
+Best individual in generation 4 meets fitness threshold - complexity: (12, 4242)
